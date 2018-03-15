@@ -1,0 +1,16 @@
+src/directives
+src/utils/throttle.js
+src/assets
+src/components
+src/font-awesome
+src/iconfont
+src/views/basemap
+src/views/echarts
+src/views/industryEconomy
+src/views/poverty-reduction
+src/views/qinzhou
+src/views/science-technology
+src/views/stats-department
+src/views/majorProject
+src/views/beibuBay
+src/views/home

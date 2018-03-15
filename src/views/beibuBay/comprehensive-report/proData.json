@@ -1,0 +1,2504 @@
+[
+    {
+        "year2017": [
+            {
+                "name": "南宁市",
+                "value": [
+                    {
+                        "localProduction": 4118.83,
+                        "rate": 8
+                    },
+                    {
+                        "financial": 687.98,
+                        "rate": 12
+                    },
+                    {
+                        "public": 332.15,
+                        "rate": 6.2
+                    },
+                    {
+                        "scale": 9.9
+                    },
+                    {
+                        "assets": 4307.95,
+                        "rate": 12.6
+                    },
+                    {
+                        "consume": 2204.16,
+                        "rate": 41.88
+                    },
+                    {
+                        "house": 958.09,
+                        "rate": 12.2
+                    },
+                    {
+                        "foreignTrade": 607.09,
+                        "rate": 48.8
+                    },
+                    {
+                        "export": 275.69,
+                        "rate": 35.8
+                    },
+                    {
+                        "foreignTradesMan": 226642,
+                        "rate": 41.88
+                    }
+                ]
+            },
+            {
+                "name": "北海市",
+                "value": [
+                    {
+                        "localProduction": 1229.84,
+                        "rate": 10.2
+                    },
+                    {
+                        "financial": 200.67,
+                        "rate": 20.1
+                    },
+                    {
+                        "public": 64.34,
+                        "rate": 28.5
+                    },
+                    {
+                        "scale": 11.9
+                    },
+                    {
+                        "assets": 1099.68,
+                        "rate": 8.8
+                    },
+                    {
+                        "consume": 250.13,
+                        "rate": 11
+                    },
+                    {
+                        "house": 168.28,
+                        "rate": -4.6
+                    },
+                    {
+                        "foreignTrade": 230.84,
+                        "rate": 12.5
+                    },
+                    {
+                        "export": 116.25,
+                        "rate": 5.4
+                    },
+                    {
+                        "foreignTradesMan": 8448,
+                        "rate": -59.79
+                    }
+                ]
+            },
+            {
+                "name": "防城港市",
+                "value": [
+                    {
+                        "localProduction": 741.62,
+                        "rate": 6.7
+                    },
+                    {
+                        "financial": 75.51,
+                        "rate": -2.3
+                    },
+                    {
+                        "public": 47.6,
+                        "rate": -14.5
+                    },
+                    {
+                        "scale": 6.5
+                    },
+                    {
+                        "assets": 627.77,
+                        "rate": 12.1
+                    },
+                    {
+                        "consume": 124.02,
+                        "rate": 10.8
+                    },
+                    {
+                        "house": 73.9,
+                        "rate": -15.8
+                    },
+                    {
+                        "foreignTrade": 768.54,
+                        "rate": 32.4
+                    },
+                    {
+                        "export": 115.06,
+                        "rate": 2.9
+                    },
+                    {
+                        "foreignTradesMan": 74,
+                        "rate": -99.18
+                    }
+                ]
+            },
+            {
+                "name": "钦州市",
+                "value": [
+                    {
+                        "localProduction": 1309.82,
+                        "rate": 8.8
+                    },
+                    {
+                        "financial": 145.08,
+                        "rate": -6.4
+                    },
+                    {
+                        "public": 52.81,
+                        "rate": 6.7
+                    },
+                    {
+                        "scale": 12.8
+                    },
+                    {
+                        "assets": 1088.85,
+                        "rate": 14.5
+                    },
+                    {
+                        "consume": 411.75,
+                        "rate": 10.2
+                    },
+                    {
+                        "house": 80.1,
+                        "rate": 1.8
+                    },
+                    {
+                        "foreignTrade": 340.47,
+                        "rate": 16.6
+                    },
+                    {
+                        "export": 116.29,
+                        "rate": 9.5
+                    },
+                    {
+                        "foreignTradesMan": 23187,
+                        "rate": 91.96
+                    }
+                ]
+            },
+            {
+                "name": "玉林市",
+                "value": [
+                    {
+                        "localProduction": 1699.54,
+                        "rate": 7.6
+                    },
+                    {
+                        "financial": 160.18,
+                        "rate": 6.6
+                    },
+                    {
+                        "public": 105.55,
+                        "rate": 0.7
+                    },
+                    {
+                        "scale": 8.3
+                    },
+                    {
+                        "assets": 1689.33,
+                        "rate": 15.2
+                    },
+                    {
+                        "consume": 728.86,
+                        "rate": 10.4
+                    },
+                    {
+                        "house": 183.35,
+                        "rate": 35.4
+                    },
+                    {
+                        "foreignTrade": 33.66,
+                        "rate": 26.2
+                    },
+                    {
+                        "export": 24.71,
+                        "rate": 11.6
+                    },
+                    {
+                        "foreignTradesMan": 3177,
+                        "rate": 22.52
+                    }
+                ]
+            },
+            {
+                "name": "崇左市",
+                "value": [
+                    {
+                        "localProduction": 907.62,
+                        "rate": 9.3
+                    },
+                    {
+                        "financial": 55.25,
+                        "rate": -5.9
+                    },
+                    {
+                        "public": 34.07,
+                        "rate": -16.4
+                    },
+                    {
+                        "scale": 10.8
+                    },
+                    {
+                        "assets": 970.5,
+                        "rate": 16.7
+                    },
+                    {
+                        "consume": 146.09,
+                        "rate": 11.2
+                    },
+                    {
+                        "house": 60.24,
+                        "rate": -6.5
+                    },
+                    {
+                        "foreignTrade": 1338.81,
+                        "rate": 9.9
+                    },
+                    {
+                        "export": 892.46,
+                        "rate": 24.1
+                    },
+                    {
+                        "foreignTradesMan": 371,
+                        "rate": -79.2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year2016": [
+            {
+                "name": "南宁市",
+                "value": [
+                    {
+                        "localProduction": 3703.39,
+                        "rate": 7.0
+                    },
+                    {
+                        "financial": 613.87,
+                        "rate": 7.2
+                    },
+                    {
+                        "public": 312.79,
+                        "rate": 5.3
+                    },
+                    {
+                        "scale": 5.7
+                    },
+                    {
+                        "assets": 3824.73,
+                        "rate": 13.6
+                    },
+                    {
+                        "consume": 1980.36,
+                        "rate": 10.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 416.23,
+                        "rate": 14.2
+                    },
+                    {
+                        "export": 211.13,
+                        "rate": 4.3
+                    },
+                    {
+                        "foreignTradesMan": 15959,
+                        "rate": -31.61
+                    }
+                ]
+            },
+            {
+                "name": "北海市",
+                "value": [
+                    {
+                        "localProduction": 1007.28,
+                        "rate": 8.6
+                    },
+                    {
+                        "financial": 166.31,
+                        "rate": 16.3
+                    },
+                    {
+                        "public": 50.07,
+                        "rate": 5.2
+                    },
+                    {
+                        "scale": 10.3
+                    },
+                    {
+                        "assets": 1011.10,
+                        "rate": 9.9
+                    },
+                    {
+                        "consume": 225.34,
+                        "rate": 11.0
+                    },
+                    {},
+                    {
+                        "foreignTrade": 204.75,
+                        "rate": -13.3
+                    },
+                    {
+                        "export": 110.27,
+                        "rate": -6.6
+                    },
+                    {
+                        "foreignTradesMan": 21000,
+                        "rate": 12.84
+                    }
+                ]
+            },
+            {
+                "name": "防城港市",
+                "value": [
+                    {
+                        "localProduction": 676.12,
+                        "rate": 9.1
+                    },
+                    {
+                        "financial": 75.61,
+                        "rate": 7.0
+                    },
+                    {
+                        "public": 55.62,
+                        "rate": 6.9
+                    },
+                    {
+                        "scale": 12.4
+                    },
+                    {
+                        "assets": 600.14,
+                        "rate": 14.1
+                    },
+                    {
+                        "consume": 111.89,
+                        "rate": 10.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 578.91,
+                        "rate": 8.4
+                    },
+                    {
+                        "export": 111.79,
+                        "rate": -22.2
+                    },
+                    {
+                        "foreignTradesMan": 8981,
+                        "rate": 214.02
+                    }
+                ]
+            },
+            {
+                "name": "钦州市",
+                "value": [
+                    {
+                        "localProduction": 1102.05,
+                        "rate": 9.0
+                    },
+                    {
+                        "financial": 154.08,
+                        "rate": -5.0
+                    },
+                    {
+                        "public": 49.50,
+                        "rate": -1.7
+                    },
+                    {
+                        "scale": 10.4
+                    },
+                    {
+                        "assets": 950.89,
+                        "rate": 17.4
+                    },
+                    {
+                        "consume": 373.63,
+                        "rate": 12.0
+                    },
+                    {},
+                    {
+                        "foreignTrade": 292.10,
+                        "rate": -18.7
+                    },
+                    {
+                        "export": 106.17,
+                        "rate": -30.9
+                    },
+                    {
+                        "foreignTradesMan": 120.79,
+                        "rate": -62.66
+                    }
+                ]
+            },
+            {
+                "name": "玉林市",
+                "value": [
+                    {
+                        "localProduction": 1553.91,
+                        "rate": 8.0
+                    },
+                    {
+                        "financial": 148.95,
+                        "rate": 6.7
+                    },
+                    {
+                        "public": 104.81,
+                        "rate": 7.9
+                    },
+                    {
+                        "scale": 8.8
+                    },
+                    {
+                        "assets": 1467.10,
+                        "rate": 10.1
+                    },
+                    {
+                        "consume": 660.43,
+                        "rate": 10.0
+                    },
+                    {},
+                    {
+                        "foreignTrade": 26.68,
+                        "rate": -4.2
+                    },
+                    {
+                        "export": 22.15,
+                        "rate": 8.6
+                    },
+                    {
+                        "foreignTradesMan": 2593,
+                        "rate": -24.23
+                    }
+                ]
+            },
+            {
+                "name": "崇左市",
+                "value": [
+                    {
+                        "localProduction": 766.20,
+                        "rate": 8.2
+                    },
+                    {
+                        "financial": 58.20,
+                        "rate": -22.6
+                    },
+                    {
+                        "public": 40.76,
+                        "rate": -18.7
+                    },
+                    {
+                        "scale": 7.1
+                    },
+                    {
+                        "assets": 831.41,
+                        "rate": 20.2
+                    },
+                    {
+                        "consume": 131.34,
+                        "rate": 10.0
+                    },
+                    {},
+                    {
+                        "foreignTrade": 1230.73,
+                        "rate": -1.9
+                    },
+                    {
+                        "export": 719.22,
+                        "rate": -18.6
+                    },
+                    {
+                        "foreignTradesMan": 1784,
+                        "rate": -75.8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year2015": [
+            {
+                "name": "南宁市",
+                "value": [
+                    {
+                        "localProduction": 3410.09,
+                        "rate": 8.6
+                    },
+                    {
+                        "financial": 572.48,
+                        "rate": 8.7
+                    },
+                    {
+                        "public": 297.05,
+                        "rate": 8.1
+                    },
+                    {
+                        "scale": 8.3
+                    },
+                    {
+                        "assets": 3366.89,
+                        "rate": 16.6
+                    },
+                    {
+                        "consume": 1786.68,
+                        "rate": 10.5
+                    },
+                    {},
+                    {
+                        "foreignTrade": 364.46,
+                        "rate": 23.3
+                    },
+                    {
+                        "export": 203.48,
+                        "rate": 26.6
+                    },
+                    {
+                        "foreignTradesMan": 31014,
+                        "rate": 23.31
+                    }
+                ]
+            },
+            {
+                "name": "北海市",
+                "value": [
+                    {
+                        "localProduction": 892.08,
+                        "rate": 11.4
+                    },
+                    {
+                        "financial": 142.99,
+                        "rate": 12.2
+                    },
+                    {
+                        "public": 447.61,
+                        "rate": 0.8
+                    },
+                    {
+                        "scale": 14.7
+                    },
+                    {
+                        "assets": 920.37,
+                        "rate": 17.1
+                    },
+                    {
+                        "consume": 202.99,
+                        "rate": 9.2
+                    },
+                    {},
+                    {
+                        "foreignTrade": 236.40,
+                        "rate": 10.0
+                    },
+                    {
+                        "export": 118.08,
+                        "rate": 9.7
+                    },
+                    {
+                        "foreignTradesMan": 18611,
+                        "rate": 24.9
+                    }
+                ]
+            },
+            {
+                "name": "防城港市",
+                "value": [
+                    {
+                        "localProduction": 670.72,
+                        "rate": 10.2
+                    },
+                    {
+                        "financial": 70.64,
+                        "rate": 8.1
+                    },
+                    {
+                        "public": 52.05,
+                        "rate": 14.5
+                    },
+                    {
+                        "scale": 14.3
+                    },
+                    {
+                        "assets": 526.15,
+                        "rate": 10.0
+                    },
+                    {
+                        "consume": 101.03,
+                        "rate": 10.2
+                    },
+                    {},
+                    {
+                        "foreignTrade": 536.12,
+                        "rate": 59.6
+                    },
+                    {
+                        "export": 143.60,
+                        "rate": 55.3
+                    },
+                    {
+                        "foreignTradesMan": 2860,
+                        "rate": 22.66
+                    }
+                ]
+            },
+            {
+                "name": "钦州市",
+                "value": [
+                    {
+                        "localProduction": 944.42,
+                        "rate": 8.4
+                    },
+                    {
+                        "financial": 162.23,
+                        "rate": 17.3
+                    },
+                    {
+                        "public": 50.34,
+                        "rate": 5.7
+                    },
+                    {
+                        "scale": 5.7
+                    },
+                    {
+                        "assets": 810.10,
+                        "rate": 22.9
+                    },
+                    {
+                        "consume": 333.50,
+                        "rate": 10.0
+                    },
+                    {},
+                    {
+                        "foreignTrade": 361.58,
+                        "rate": 10.3
+                    },
+                    {
+                        "export": 153.73,
+                        "rate": 24.5
+                    },
+                    {
+                        "foreignTradesMan": 32350,
+                        "rate": 96.81
+                    }
+                ]
+            },
+            {
+                "name": "玉林市",
+                "value": [
+                    {
+                        "localProduction": 1446.13,
+                        "rate": 8.9
+                    },
+                    {
+                        "financial": 139.57,
+                        "rate": 8.9
+                    },
+                    {
+                        "public": 97.16,
+                        "rate": 9.4
+                    },
+                    {
+                        "scale": 11.3
+                    },
+                    {
+                        "assets": 1332.12,
+                        "rate": 18.5
+                    },
+                    {
+                        "consume": 600.34,
+                        "rate": 10.0
+                    },
+                    {},
+                    {
+                        "foreignTrade": 27.96,
+                        "rate": -6.5
+                    },
+                    {
+                        "export": 20.39,
+                        "rate": 3.0
+                    },
+                    {
+                        "foreignTradesMan": 3422,
+                        "rate": 15.22
+                    }
+                ]
+            },
+            {
+                "name": "崇左市",
+                "value": [
+                    {
+                        "localProduction": 682.82,
+                        "rate": 8.2
+                    },
+                    {
+                        "financial": 75.15,
+                        "rate": 2.7
+                    },
+                    {
+                        "public": 50.12,
+                        "rate": 3.6
+                    },
+                    {
+                        "scale": 7.7
+                    },
+                    {
+                        "assets": 691.57,
+                        "rate": 26.1
+                    },
+                    {
+                        "consume": 119.39,
+                        "rate": 10.1
+                    },
+                    {},
+                    {
+                        "foreignTrade": 1255.14,
+                        "rate": 39.0
+                    },
+                    {
+                        "export": 883.90,
+                        "rate": 9.1
+                    },
+                    {
+                        "foreignTradesMan": 7373,
+                        "rate": 16.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year2014": [
+            {
+                "name": "南宁市",
+                "value": [
+                    {
+                        "localProduction": 3148.30,
+                        "rate": 8.5
+                    },
+                    {
+                        "financial": 526.59,
+                        "rate": 11.2
+                    },
+                    {
+                        "public": 274.85,
+                        "rate": 7.3
+                    },
+                    {
+                        "scale": 10.8
+                    },
+                    {
+                        "assets": 2886.28,
+                        "rate": 18.7
+                    },
+                    {
+                        "consume": 1616.90,
+                        "rate": 12.1
+                    },
+                    {},
+                    {
+                        "foreignTrade": 48.14,
+                        "rate": 9.0
+                    },
+                    {
+                        "export": 26.17,
+                        "rate": 11.3
+                    },
+                    {
+                        "foreignTradesMan": 15608,
+                        "rate": 61.37
+                    }
+                ]
+            },
+            {
+                "name": "北海市",
+                "value": [
+                    {
+                        "localProduction": 856.01,
+                        "rate": 12.5
+                    },
+                    {
+                        "financial": 127.39,
+                        "rate": 12.1
+                    },
+                    {
+                        "public": 47.25,
+                        "rate": 12.2
+                    },
+                    {
+                        "scale": 21.5
+                    },
+                    {
+                        "assets": 786.16,
+                        "rate": 16.5
+                    },
+                    {
+                        "consume": 185.81,
+                        "rate": 11.2
+                    },
+                    {},
+                    {
+                        "foreignTrade": 35.00,
+                        "rate": 29.7
+                    },
+                    {
+                        "export": 17.52,
+                        "rate": 28.2
+                    },
+                    {
+                        "foreignTradesMan": 8515,
+                        "rate": 75
+                    }
+                ]
+            },
+            {
+                "name": "防城港市",
+                "value": [
+                    {
+                        "localProduction": 589.94,
+                        "rate": 10.4
+                    },
+                    {
+                        "financial": 65.33,
+                        "rate": 10.2
+                    },
+                    {
+                        "public": 45.45,
+                        "rate": 11.6
+                    },
+                    {
+                        "scale": 18.0
+                    },
+                    {
+                        "assets": 478.31,
+                        "rate": 4.9
+                    },
+                    {
+                        "consume": 91.67,
+                        "rate": 12.6
+                    },
+                    {},
+                    {
+                        "foreignTrade": 54.69,
+                        "rate": 27.3
+                    },
+                    {
+                        "export": 15.05,
+                        "rate": 39.6
+                    },
+                    {
+                        "foreignTradesMan": 2220,
+                        "rate": 5
+                    }
+                ]
+            },
+            {
+                "name": "钦州市",
+                "value": [
+                    {
+                        "localProduction": 854.96,
+                        "rate": 9.8
+                    },
+                    {
+                        "financial": 138.31,
+                        "rate": 1.6
+                    },
+                    {
+                        "public": 47.64,
+                        "rate": 6.0
+                    },
+                    {
+                        "scale": 12.5
+                    },
+                    {
+                        "assets": 658.97,
+                        "rate": 17.9
+                    },
+                    {
+                        "consume": 303.25,
+                        "rate": 12.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 53.34,
+                        "rate": 51.1
+                    },
+                    {
+                        "export": 20.11,
+                        "rate": 91.1
+                    },
+                    {
+                        "foreignTradesMan": 16114,
+                        "rate": 96.81
+                    }
+                ]
+            },
+            {
+                "name": "玉林市",
+                "value": [
+                    {
+                        "localProduction": 1341.75,
+                        "rate": 8.4
+                    },
+                    {
+                        "financial": 128.22,
+                        "rate": 12.7
+                    },
+                    {
+                        "public": 88.86,
+                        "rate": 17.7
+                    },
+                    {
+                        "scale": 11.3
+                    },
+                    {
+                        "assets": 1123.71,
+                        "rate": 17.8
+                    },
+                    {
+                        "consume": 545.71,
+                        "rate": 13.0
+                    },
+                    {},
+                    {
+                        "foreignTrade": 4.87,
+                        "rate": 16.9
+                    },
+                    {
+                        "export": 3.22,
+                        "rate": 11.1
+                    },
+                    {
+                        "foreignTradesMan": 2702,
+                        "rate": 9.92
+                    }
+                ]
+            },
+            {
+                "name": "崇左市",
+                "value": [
+                    {
+                        "localProduction": 649.72,
+                        "rate": 8.3
+                    },
+                    {
+                        "financial": 73.16,
+                        "rate": 0.2
+                    },
+                    {
+                        "public": 48.40,
+                        "rate": 1.9
+                    },
+                    {
+                        "scale": 11.5
+                    },
+                    {
+                        "assets": 548.64,
+                        "rate": 21.7
+                    },
+                    {
+                        "consume": 108.44,
+                        "rate": 12.5
+                    },
+                    {},
+                    {
+                        "foreignTrade": 146.94,
+                        "rate": 43.0
+                    },
+                    {
+                        "export": 131.80,
+                        "rate": 35.1
+                    },
+                    {
+                        "foreignTradesMan": 4577,
+                        "rate": 38.28
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year2013": [
+            {
+                "name": "南宁市",
+                "value": [
+                    {
+                        "localProduction": 2803.51,
+                        "rate": 10.3
+                    },
+                    {
+                        "financial": 473.67,
+                        "rate": 12.2
+                    },
+                    {
+                        "public": 256.25,
+                        "rate": 11.5
+                    },
+                    {
+                        "scale": 16.6
+                    },
+                    {
+                        "assets": 2642.67,
+                        "rate": 23.7
+                    },
+                    {
+                        "consume": 1450.84,
+                        "rate": 14.0
+                    },
+                    {},
+                    {
+                        "foreignTrade": 44.21,
+                        "rate": 6.6
+                    },
+                    {
+                        "export": 23.53,
+                        "rate": -6.5
+                    },
+                    {
+                        "foreignTradesMan": 15608,
+                        "rate": 61.37
+                    }
+                ]
+            },
+            {
+                "name": "北海市",
+                "value": [
+                    {
+                        "localProduction": 735.00,
+                        "rate": 13.3
+                    },
+                    {
+                        "financial": 113.60,
+                        "rate": 13.5
+                    },
+                    {
+                        "public": 42.11,
+                        "rate": 2.4
+                    },
+                    {
+                        "scale": 24.6
+                    },
+                    {
+                        "assets": 674.91,
+                        "rate": 23.8
+                    },
+                    {
+                        "consume": 167.03,
+                        "rate": 14.0
+                    },
+                    {},
+                    {
+                        "foreignTrade": 26.98,
+                        "rate": 29.9
+                    },
+                    {
+                        "export": 13.66,
+                        "rate": 15.4
+                    },
+                    {
+                        "foreignTradesMan": 8515,
+                        "rate": 63
+                    }
+                ]
+            },
+            {
+                "name": "防城港市",
+                "value": [
+                    {
+                        "localProduction": 525.15,
+                        "rate": 12.4
+                    },
+                    {
+                        "financial": 59.26,
+                        "rate": 13.1
+                    },
+                    {
+                        "public": 40.71,
+                        "rate": 14.5
+                    },
+                    {
+                        "scale": 20.8
+                    },
+                    {
+                        "assets": 455.81,
+                        "rate": 14.9
+                    },
+                    {
+                        "consume": 81.43,
+                        "rate": -12.2
+                    },
+                    {},
+                    {
+                        "foreignTrade": 43.00,
+                        "rate": -12.2
+                    },
+                    {
+                        "export": 10.75,
+                        "rate": 30.2
+                    },
+                    {
+                        "foreignTradesMan": 2220,
+                        "rate": 20.06
+                    }
+                ]
+            },
+            {
+                "name": "钦州市",
+                "value": [
+                    {
+                        "localProduction": 753.74,
+                        "rate": 7.9
+                    },
+                    {
+                        "financial": 136.12,
+                        "rate": -2.2
+                    },
+                    {
+                        "public": 44.95,
+                        "rate": 33.8
+                    },
+                    {
+                        "scale": 8.1
+                    },
+                    {
+                        "assets": 559.03,
+                        "rate": 35.0
+                    },
+                    {
+                        "consume": 268.82,
+                        "rate": 13.2
+                    },
+                    {},
+                    {
+                        "foreignTrade": 35.30,
+                        "rate": -6.3
+                    },
+                    {
+                        "export": 10.52,
+                        "rate": 5.1
+                    },
+                    {
+                        "foreignTradesMan": 16114,
+                        "rate": 1.73
+                    }
+                ]
+            },
+            {
+                "name": "玉林市",
+                "value": [
+                    {
+                        "localProduction": 1198.46,
+                        "rate": 10.0
+                    },
+                    {
+                        "financial": 113.80,
+                        "rate": 13.4
+                    },
+                    {
+                        "public": 75.48,
+                        "rate": 15.1
+                    },
+                    {
+                        "scale": 16.5
+                    },
+                    {
+                        "assets": 953.59,
+                        "rate": 30.5
+                    },
+                    {
+                        "consume": 482.91,
+                        "rate": 14.2
+                    },
+                    {},
+                    {
+                        "foreignTrade": 4.17,
+                        "rate": -29.2
+                    },
+                    {
+                        "export": 2.90,
+                        "rate": -19.1
+                    },
+                    {
+                        "foreignTradesMan": 2702,
+                        "rate": 43.08
+                    }
+                ]
+            },
+            {
+                "name": "崇左市",
+                "value": [
+                    {
+                        "localProduction": 584.63,
+                        "rate": 10.2
+                    },
+                    {
+                        "financial": 73.02,
+                        "rate": 10.6
+                    },
+                    {
+                        "public": 47.48,
+                        "rate": 20.2
+                    },
+                    {
+                        "scale": 17.0
+                    },
+                    {
+                        "assets": 450.84,
+                        "rate": 24.7
+                    },
+                    {
+                        "consume": 96.38,
+                        "rate": 14.2
+                    },
+                    {},
+                    {
+                        "foreignTrade": 102.77,
+                        "rate": 44.0
+                    },
+                    {
+                        "export": 97.58,
+                        "rate": 43.4
+                    },
+                    {
+                        "foreignTradesMan": 4577,
+                        "rate": 26.82
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year2012": [
+            {
+                "name": "南宁市",
+                "value": [
+                    {
+                        "localProduction": 2503.18,
+                        "rate": 12.3
+                    },
+                    {
+                        "financial": 422,
+                        "rate": 16.1
+                    },
+                    {
+                        "public": 229.73,
+                        "rate": 23.3
+                    },
+                    {
+                        "scale": 22
+                    },
+                    {
+                        "assets": 2585.18,
+                        "rate": 28.1
+                    },
+                    {
+                        "consume": 1255.59,
+                        "rate": 17
+                    },
+                    {},
+                    {
+                        "foreignTrade": 41.47,
+                        "rate": 65.2
+                    },
+                    {
+                        "export": 25.17,
+                        "rate": 51.5
+                    }
+                ]
+            },
+            {
+                "name": "北海市",
+                "value": [
+                    {
+                        "localProduction": 630.09,
+                        "rate": 21.7
+                    },
+                    {
+                        "financial": 100.09,
+                        "rate": 73.9
+                    },
+                    {
+                        "public": 41.13,
+                        "rate": 11
+                    },
+                    {
+                        "scale": 59.5
+                    },
+                    {
+                        "assets": 725.36,
+                        "rate": 20.3
+                    },
+                    {
+                        "consume": 146.51,
+                        "rate": 15.1
+                    },
+                    {},
+                    {
+                        "foreignTrade": 20.78,
+                        "rate": 21.3
+                    },
+                    {
+                        "export": 11.84,
+                        "rate": 4.6
+                    },
+                    {
+                        "foreignTradesMan": 8515,
+                        "rate": 63
+                    }
+                ]
+            },
+            {
+                "name": "防城港市",
+                "value": [
+                    {
+                        "localProduction": 443.99,
+                        "rate": 12.0
+                    },
+                    {
+                        "financial": 52.38,
+                        "rate": 18.1
+                    },
+                    {
+                        "public": 35.54,
+                        "rate": 25.6
+                    },
+                    {
+                        "scale": 19.2
+                    },
+                    {
+                        "assets": 550.39,
+                        "rate": 12
+                    },
+                    {
+                        "consume": 71.3,
+                        "rate": 16.6
+                    },
+                    {},
+                    {
+                        "foreignTrade": 48.98,
+                        "rate": 1901
+                    },
+                    {
+                        "export": 8.28,
+                        "rate": -12.3
+                    },
+                    {
+                        "foreignTradesMan": 2220,
+                        "rate": 20.06
+                    }
+                ]
+            },
+            {
+                "name": "钦州市",
+                "value": [
+                    {
+                        "localProduction": 691.32,
+                        "rate": 11.8
+                    },
+                    {
+                        "financial": 139.2,
+                        "rate": 13
+                    },
+                    {
+                        "public": 33.25,
+                        "rate": 31.3
+                    },
+                    {
+                        "scale": 16.1
+                    },
+                    {
+                        "assets": 652.59,
+                        "rate": 16.9
+                    },
+                    {
+                        "consume": 237.56,
+                        "rate": 16.3
+                    },
+                    {},
+                    {
+                        "foreignTrade": 37.67,
+                        "rate": 26.1
+                    },
+                    {
+                        "export": 10.02,
+                        "rate": 14.5
+                    },
+                    {
+                        "foreignTradesMan": 16114,
+                        "rate": 1.73
+                    }
+                ]
+            },
+            {
+                "name": "玉林市",
+                "value": [
+                    {
+                        "localProduction": 1102.08,
+                        "rate": 10.9
+                    },
+                    {
+                        "financial": 100.36,
+                        "rate": 16.9
+                    },
+                    {
+                        "public": 65.57,
+                        "rate": 34
+                    },
+                    {
+                        "scale": 18.2
+                    },
+                    {
+                        "assets": 1004.26,
+                        "rate": 26.8
+                    },
+                    {
+                        "consume": 422.83,
+                        "rate": 16.5
+                    },
+                    {},
+                    {
+                        "foreignTrade": 5.88,
+                        "rate": -7.3
+                    },
+                    {
+                        "export": 3.58,
+                        "rate": 5.2
+                    },
+                    {
+                        "foreignTradesMan": 2702,
+                        "rate": 43.08
+                    }
+                ]
+            },
+            {
+                "name": "崇左市",
+                "value": [
+                    {
+                        "localProduction": 530.51,
+                        "rate": 11.8
+                    },
+                    {
+                        "financial": 66,
+                        "rate": 14.5
+                    },
+                    {
+                        "public": 39.49,
+                        "rate": 30.6
+                    },
+                    {
+                        "scale": 18.8
+                    },
+                    {
+                        "assets": 532.15,
+                        "rate": 28.2
+                    },
+                    {
+                        "consume": 96.38,
+                        "rate": 14.2
+                    },
+                    {},
+                    {
+                        "foreignTrade": 87.37,
+                        "rate": 16.5
+                    },
+                    {
+                        "export": 71.35,
+                        "rate": 40.5
+                    },
+                    {
+                        "foreignTradesMan": 4577,
+                        "rate": 26.82
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year2011": [
+            {
+                "name": "南宁市",
+                "value": [
+                    {
+                        "localProduction": 2211.44,
+                        "rate": 13.5
+                    },
+                    {
+                        "financial": 363.52,
+                        "rate": 20.8
+                    },
+                    {
+                        "public": 186.29,
+                        "rate": 19.3
+                    },
+                    {
+                        "scale": 23.6
+                    },
+                    {
+                        "assets": 2003.68,
+                        "rate": 37.1
+                    },
+                    {
+                        "consume": 1073.15,
+                        "rate": 18.5
+                    },
+                    {},
+                    {
+                        "foreignTrade": 25.1,
+                        "rate": 13.9
+                    },
+                    {
+                        "export": 25.17,
+                        "rate": 51.5
+                    }
+                ]
+            },
+            {
+                "name": "北海市",
+                "value": [
+                    {
+                        "localProduction": 498.31,
+                        "rate": 18
+                    },
+                    {
+                        "financial": 57.54,
+                        "rate": 22.2
+                    },
+                    {
+                        "public": 37.06,
+                        "rate": 34.7
+                    },
+                    {
+                        "scale": 47.1
+                    },
+                    {
+                        "assets": 603.14,
+                        "rate": 26.1
+                    },
+                    {
+                        "consume": 127.29,
+                        "rate": 17.9
+                    },
+                    {},
+                    {
+                        "foreignTrade": 17.12,
+                        "rate": 24.9
+                    },
+                    {
+                        "export": 11.31,
+                        "rate": 34.8
+                    },
+                    {
+                        "foreignTradesMan": 8515,
+                        "rate": 63
+                    }
+                ]
+            },
+            {
+                "name": "防城港市",
+                "value": [
+                    {
+                        "localProduction": 413.77,
+                        "rate": 15.3
+                    },
+                    {
+                        "financial": 44.35,
+                        "rate": 26.3
+                    },
+                    {
+                        "public": 28.27,
+                        "rate": 24
+                    },
+                    {
+                        "scale": 19.9
+                    },
+                    {
+                        "assets": 490.75,
+                        "rate": 31.7
+                    },
+                    {
+                        "consume": 61.16,
+                        "rate": 18
+                    },
+                    {},
+                    {
+                        "foreignTrade": 41.06,
+                        "rate": 46.8
+                    },
+                    {
+                        "export": 9.44,
+                        "rate": 21.2
+                    },
+                    {
+                        "foreignTradesMan": 2220,
+                        "rate": 20.06
+                    }
+                ]
+            },
+            {
+                "name": "钦州市",
+                "value": [
+                    {
+                        "localProduction": 646.65,
+                        "rate": 20.1
+                    },
+                    {
+                        "financial": 123.14,
+                        "rate": 110.9
+                    },
+                    {
+                        "public": 25.57,
+                        "rate": 14.4
+                    },
+                    {
+                        "scale": 91.4
+                    },
+                    {
+                        "assets": 557.78,
+                        "rate": 26.5
+                    },
+                    {
+                        "consume": 204.27,
+                        "rate": 16.3
+                    },
+                    {},
+                    {
+                        "foreignTrade": 29.82,
+                        "rate": 127.5
+                    },
+                    {
+                        "export": 8.75,
+                        "rate": 168.8
+                    },
+                    {
+                        "foreignTradesMan": 16114,
+                        "rate": 1.73
+                    }
+                ]
+            },
+            {
+                "name": "玉林市",
+                "value": [
+                    {
+                        "localProduction": 1019.94,
+                        "rate": 11
+                    },
+                    {
+                        "financial": 85.86,
+                        "rate": 24.5
+                    },
+                    {
+                        "public": 48.94,
+                        "rate": 32.8
+                    },
+                    {
+                        "scale": 19.7
+                    },
+                    {
+                        "assets": 788.82,
+                        "rate": 31.4
+                    },
+                    {
+                        "consume": 362.81,
+                        "rate": 18.1
+                    },
+                    {},
+                    {
+                        "foreignTrade": 6.35,
+                        "rate": 40.6
+                    },
+                    {
+                        "export": 3.41,
+                        "rate": 7.8
+                    },
+                    {
+                        "foreignTradesMan": 2702,
+                        "rate": 43.08
+                    }
+                ]
+            },
+            {
+                "name": "崇左市",
+                "value": [
+                    {
+                        "localProduction": 591.85,
+                        "rate": 10.5
+                    },
+                    {
+                        "financial": 57.62,
+                        "rate": 21.3
+                    },
+                    {
+                        "public": 30.2,
+                        "rate": 15.5
+                    },
+                    {
+                        "scale": 16.5
+                    },
+                    {
+                        "assets": 415.06,
+                        "rate": 39.9
+                    },
+                    {
+                        "consume": 72.4,
+                        "rate": 18.5
+                    },
+                    {},
+                    {
+                        "foreignTrade": 50.76,
+                        "rate": 35.8
+                    },
+                    {
+                        "export": 46.83,
+                        "rate": 37.1
+                    },
+                    {
+                        "foreignTradesMan": 4577,
+                        "rate": 26.82
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year2010": [
+            {
+                "name": "南宁市",
+                "value": [
+                    {
+                        "localProduction": 1800.76,
+                        "rate": 14.2
+                    },
+                    {
+                        "financial": 300.88,
+                        "rate": 30.1
+                    },
+                    {
+                        "public": 156.1,
+                        "rate": 29.8
+                    },
+                    {
+                        "scale": 17.8
+                    },
+                    {
+                        "assets": 1483.02,
+                        "rate": 42.1
+                    },
+                    {
+                        "consume": 0,
+                        "rate": 20
+                    },
+                    {},
+                    {
+                        "foreignTrade": 22.13,
+                        "rate": -20.6
+                    },
+                    {
+                        "export": 15.93,
+                        "rate": -33.1
+                    }
+                ]
+            },
+            {
+                "name": "北海市",
+                "value": [
+                    {
+                        "localProduction": 401.41,
+                        "rate": 17.6
+                    },
+                    {
+                        "financial": 47.1,
+                        "rate": 31.8
+                    },
+                    {
+                        "public": 27.51,
+                        "rate": 59.7
+                    },
+                    {
+                        "scale": 115.3
+                    },
+                    {
+                        "assets": 485.26,
+                        "rate": 50.8
+                    },
+                    {
+                        "consume": 0,
+                        "rate": 18.9
+                    },
+                    {},
+                    {
+                        "foreignTrade": 13.71,
+                        "rate": 72.2
+                    },
+                    {
+                        "export": 8.39,
+                        "rate": 77.2
+                    },
+                    {
+                        "foreignTradesMan": 8515,
+                        "rate": 63
+                    }
+                ]
+            },
+            {
+                "name": "防城港市",
+                "value": [
+                    {
+                        "localProduction": 320.42,
+                        "rate": 17.8
+                    },
+                    {
+                        "financial": 35.11,
+                        "rate": 28.1
+                    },
+                    {
+                        "public": 22.8,
+                        "rate": 23.3
+                    },
+                    {
+                        "scale": 18.5
+                    },
+                    {
+                        "assets": 376.48,
+                        "rate": 48.3
+                    },
+                    {
+                        "consume": 0,
+                        "rate": 18.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 27.96,
+                        "rate": 28.9
+                    },
+                    {
+                        "export": 7.8,
+                        "rate": 98.9
+                    },
+                    {
+                        "foreignTradesMan": 2220,
+                        "rate": 20.06
+                    }
+                ]
+            },
+            {
+                "name": "钦州市",
+                "value": [
+                    {
+                        "localProduction": 520.67,
+                        "rate": 18
+                    },
+                    {
+                        "financial": 58.37,
+                        "rate": 35.5
+                    },
+                    {
+                        "public": 22.36,
+                        "rate": 6.4
+                    },
+                    {
+                        "scale": 41.8
+                    },
+                    {
+                        "assets": 451.6,
+                        "rate": 20.5
+                    },
+                    {
+                        "consume": 0,
+                        "rate": 18.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 13.14,
+                        "rate": 48.3
+                    },
+                    {
+                        "export": 3.26,
+                        "rate": 44.6
+                    },
+                    {
+                        "foreignTradesMan": 16114,
+                        "rate": 1.73
+                    }
+                ]
+            },
+            {
+                "name": "玉林市",
+                "value": [
+                    {
+                        "localProduction": 840.25,
+                        "rate": 15.7
+                    },
+                    {
+                        "financial": 68.94,
+                        "rate": 26.1
+                    },
+                    {
+                        "public": 36.84,
+                        "rate": 20.3
+                    },
+                    {
+                        "scale": 31.6
+                    },
+                    {
+                        "assets": 615.56,
+                        "rate": 38.4
+                    },
+                    {
+                        "consume": 0,
+                        "rate": 19
+                    },
+                    {},
+                    {
+                        "foreignTrade": 4.51,
+                        "rate": 27.5
+                    },
+                    {
+                        "export": 3.16,
+                        "rate": 45.8
+                    },
+                    {
+                        "foreignTradesMan": 2702,
+                        "rate": 43.08
+                    }
+                ]
+            },
+            {
+                "name": "崇左市",
+                "value": [
+                    {
+                        "localProduction": 392.37,
+                        "rate": 13.1
+                    },
+                    {
+                        "financial": 47.54,
+                        "rate": 29.4
+                    },
+                    {
+                        "public": 26.19,
+                        "rate": 26
+                    },
+                    {
+                        "scale": 15.9
+                    },
+                    {
+                        "assets": 308.84,
+                        "rate": 45.5
+                    },
+                    {
+                        "consume": 0,
+                        "rate": 19
+                    },
+                    {},
+                    {
+                        "foreignTrade": 37.34,
+                        "rate": 30.2
+                    },
+                    {
+                        "export": 34.15,
+                        "rate": 32.4
+                    },
+                    {
+                        "foreignTradesMan": 4577,
+                        "rate": 26.82
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year2009": [
+            {
+                "name": "南宁市",
+                "value": [
+                    {
+                        "localProduction": 1524.71,
+                        "rate": 15.1
+                    },
+                    {
+                        "financial": 231.21,
+                        "rate": 20.9
+                    },
+                    {
+                        "public": 120.28,
+                        "rate": 29.5
+                    },
+                    {
+                        "scale": 14.6
+                    },
+                    {
+                        "assets": 1043.91,
+                        "rate": 50.5
+                    },
+                    {
+                        "consume": 757.01,
+                        "rate": 19.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 27.88,
+                        "rate": 49.3
+                    },
+                    {
+                        "export": 23.84,
+                        "rate": 50.3
+                    }
+                ]
+            },
+            {
+                "name": "北海市",
+                "value": [
+                    {
+                        "localProduction": 321.06,
+                        "rate": 16.2
+                    },
+                    {
+                        "financial": 35.75,
+                        "rate": 32.3
+                    },
+                    {
+                        "public": 17.22,
+                        "rate": 20.1
+                    },
+                    {
+                        "scale": 25.4
+                    },
+                    {
+                        "assets": 321.85,
+                        "rate": 60.7
+                    },
+                    {
+                        "consume": 95.4,
+                        "rate": 19.1
+                    },
+                    {},
+                    {
+                        "foreignTrade": 13.71,
+                        "rate": 72.2
+                    },
+                    {
+                        "export": 7.97,
+                        "rate": 12.1
+                    },
+                    {
+                        "foreignTradesMan": 4.74,
+                        "rate": 8
+                    }
+                ]
+            },
+            {
+                "name": "防城港市",
+                "value": [
+                    {
+                        "localProduction": 251.04,
+                        "rate": 22.6
+                    },
+                    {
+                        "financial": 27.4,
+                        "rate": 25
+                    },
+                    {
+                        "public": 18.49,
+                        "rate": 58
+                    },
+                    {
+                        "scale": 20.7
+                    },
+                    {
+                        "assets": 254.1,
+                        "rate": 74
+                    },
+                    {
+                        "consume": 45.33,
+                        "rate": 18.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 21.67,
+                        "rate": -1.8
+                    },
+                    {
+                        "export": 3.92,
+                        "rate": 27.9
+                    },
+                    {
+                        "foreignTradesMan": 2220,
+                        "rate": 20.06
+                    }
+                ]
+            },
+            {
+                "name": "钦州市",
+                "value": [
+                    {
+                        "localProduction": 396.18,
+                        "rate": 15.2
+                    },
+                    {
+                        "financial": 38.03,
+                        "rate": 18.8
+                    },
+                    {
+                        "public": 21.01,
+                        "rate": 15
+                    },
+                    {
+                        "scale": 39.8
+                    },
+                    {
+                        "assets": 374.65,
+                        "rate": 53.5
+                    },
+                    {
+                        "consume": 145.09,
+                        "rate": 19.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 8.88,
+                        "rate": -30.1
+                    },
+                    {
+                        "export": 2.26,
+                        "rate": -56
+                    },
+                    {
+                        "foreignTradesMan": 16114,
+                        "rate": 1.73
+                    }
+                ]
+            },
+            {
+                "name": "玉林市",
+                "value": [
+                    {
+                        "localProduction": 683.49,
+                        "rate": 14.8
+                    },
+                    {
+                        "financial": 54.67,
+                        "rate": 14.5
+                    },
+                    {
+                        "public": 30.61,
+                        "rate": 19.7
+                    },
+                    {
+                        "scale": 26.4
+                    },
+                    {
+                        "assets": 444.61,
+                        "rate": 52.9
+                    },
+                    {
+                        "consume": 262.92,
+                        "rate": 19.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 3.54,
+                        "rate": -20
+                    },
+                    {
+                        "export": 2.17,
+                        "rate": -31.6
+                    },
+                    {
+                        "foreignTradesMan": 2702,
+                        "rate": 43.08
+                    }
+                ]
+            },
+            {
+                "name": "崇左市",
+                "value": [
+                    {
+                        "localProduction": 304.36,
+                        "rate": 12.6
+                    },
+                    {
+                        "financial": 16.73,
+                        "rate": 14.5
+                    },
+                    {
+                        "public": 20.79,
+                        "rate": 24
+                    },
+                    {
+                        "scale": 8.1
+                    },
+                    {
+                        "assets": 212.28,
+                        "rate": 65.2
+                    },
+                    {
+                        "consume": 53.45,
+                        "rate": 19.1
+                    },
+                    {},
+                    {
+                        "foreignTrade": 28.61,
+                        "rate": 78.5
+                    },
+                    {
+                        "export": 25.78,
+                        "rate": 91.6
+                    },
+                    {
+                        "foreignTradesMan": 4577,
+                        "rate": 26.82
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year2008": [
+            {
+                "name": "南宁市",
+                "value": [
+                    {
+                        "localProduction": 1320.43,
+                        "rate": 14.7
+                    },
+                    {
+                        "financial": 191.17,
+                        "rate": 26.7
+                    },
+                    {
+                        "public": 92.88,
+                        "rate": 32.4
+                    },
+                    {
+                        "scale": 18.9
+                    },
+                    {
+                        "assets": 693.44,
+                        "rate": 23.8
+                    },
+                    {
+                        "consume": 631.68,
+                        "rate": 19.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 18.71,
+                        "rate": 45.5
+                    },
+                    {
+                        "export": 15.86,
+                        "rate": 56.5
+                    },
+                    {
+                        "foreignTradesMan": 18.71,
+                        "rate": 35.7
+                    }
+                ]
+            },
+            {
+                "name": "北海市",
+                "value": [
+                    {
+                        "localProduction": 276.49,
+                        "rate": 16.8
+                    },
+                    {
+                        "financial": 2.03,
+                        "rate": 26.8
+                    },
+                    {
+                        "public": 14.34,
+                        "rate": 39.1
+                    },
+                    {
+                        "scale": 35.1
+                    },
+                    {
+                        "assets": 200.31,
+                        "rate": 48
+                    },
+                    {
+                        "consume": 80.11,
+                        "rate": 24.5
+                    },
+                    {},
+                    {
+                        "foreignTrade": 7.11,
+                        "rate": 42.6
+                    },
+                    {
+                        "export": 4.39,
+                        "rate": 43
+                    },
+                    {
+                        "foreignTradesMan": 1.14,
+                        "rate": 52.8
+                    }
+                ]
+            },
+            {
+                "name": "防城港市",
+                "value": [
+                    {
+                        "localProduction": 213.34,
+                        "rate": 20.2
+                    },
+                    {
+                        "financial": 22.17,
+                        "rate": 40.7
+                    },
+                    {
+                        "public": 11.7,
+                        "rate": 54.3
+                    },
+                    {
+                        "scale": 24.6
+                    },
+                    {
+                        "assets": 146.05,
+                        "rate": 48.9
+                    },
+                    {
+                        "consume": 38.15,
+                        "rate": 23.7
+                    },
+                    {},
+                    {
+                        "foreignTrade": 22.07,
+                        "rate": 51.3
+                    },
+                    {
+                        "export": 3.06,
+                        "rate": 56.9
+                    },
+                    {
+                        "foreignTradesMan": 0.51,
+                        "rate": -14.3
+                    }
+                ]
+            },
+            {
+                "name": "钦州市",
+                "value": [
+                    {
+                        "localProduction": 345.75,
+                        "rate": 15.4
+                    },
+                    {
+                        "financial": 32.01,
+                        "rate": 35.9
+                    },
+                    {
+                        "public": 18.28,
+                        "rate": 40.1
+                    },
+                    {
+                        "scale": 27.3
+                    },
+                    {
+                        "assets": 248.91,
+                        "rate": 49.7
+                    },
+                    {
+                        "consume": 121.07,
+                        "rate": 27
+                    },
+                    {},
+                    {
+                        "foreignTrade": 12.72,
+                        "rate": 51.3
+                    },
+                    {
+                        "export": 5.15,
+                        "rate": 64.1
+                    },
+                    {
+                        "foreignTradesMan": 1.81,
+                        "rate": 22.2
+                    }
+                ]
+            },
+            {
+                "name": "玉林市",
+                "value": [
+                    {
+                        "localProduction": 602.83,
+                        "rate": 12.8
+                    },
+                    {
+                        "financial": 47.75,
+                        "rate": 17.4
+                    },
+                    {
+                        "public": 25.57,
+                        "rate": 22.5
+                    },
+                    {
+                        "scale": 17.4
+                    },
+                    {
+                        "assets": 290.69,
+                        "rate": 25
+                    },
+                    {
+                        "consume": 219.51,
+                        "rate": 19.8
+                    },
+                    {},
+                    {
+                        "foreignTrade": 4.42,
+                        "rate": 19.4
+                    },
+                    {
+                        "export": 3.17,
+                        "rate": 6.3
+                    },
+                    {
+                        "foreignTradesMan": 0.23,
+                        "rate": -43.2
+                    }
+                ]
+            },
+            {
+                "name": "崇左市",
+                "value": [
+                    {
+                        "localProduction": 272.98,
+                        "rate": 11.8
+                    },
+                    {
+                        "financial": 32.07,
+                        "rate": 19
+                    },
+                    {
+                        "public": 16.77,
+                        "rate": 36.6
+                    },
+                    {
+                        "scale": 21.3
+                    },
+                    {
+                        "assets": 128.49,
+                        "rate": 11.6
+                    },
+                    {
+                        "consume": 44.88,
+                        "rate": 19.1
+                    },
+                    {},
+                    {
+                        "foreignTrade": 15.99,
+                        "rate": 72.2
+                    },
+                    {
+                        "export": 13.4,
+                        "rate": 72.4
+                    },
+                    {
+                        "foreignTradesMan": 0.87,
+                        "rate": 0.6
+                    }
+                ]
+            }
+        ]
+    }
+]
